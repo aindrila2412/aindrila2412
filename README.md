@@ -1,5 +1,5 @@
 ### Hey 👋🏻, I'm Aindrila
-
+https://img.shields.io/github/followers/aindrila2412?label=Followers&style=social
 
 ### About Me:
 
