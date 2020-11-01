@@ -1,4 +1,4 @@
-### Hey👋 I'm Aindrila
+### Hey👋🏻,I'm Aindrila
 
 
 ### About Me:
