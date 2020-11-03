@@ -1,6 +1,8 @@
 ### Hey 👋🏻, I'm Aindrila
 
-![GitHub followers](https://img.shields.io/github/followers/aindrila2412?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/AindrilaDas11?style=social)
+<img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Aindrila's DEV Profile" height="30" width="30">
+</a>
+        
 ### About Me:
 
 
