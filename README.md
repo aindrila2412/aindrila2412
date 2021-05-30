@@ -49,6 +49,12 @@
   <img alt="" src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white">
   <img alt="" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
   
+  ### Statistics and Languages:
+  
+  ![Aindrila's GitHub stats](https://github-readme-stats.vercel.app/api?username=aindrila2412&show_icons=true&theme=radical)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aindrila2412&layout=compact&&theme=radical)](https://github.com/aindrila2412/github-readme-stats)
+
+
   
   ### Connect with me:
   
