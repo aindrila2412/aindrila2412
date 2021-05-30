@@ -15,6 +15,8 @@
   
 📬 I am a part of different communities, like- Microsoft Learn Students Ambassador, Google Crowdsource, Google developers group.
   
+✨ I have started technical blogging recently, read my first blog here: https://bit.ly/3uveom1
+  
   
   ### My skills:
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
