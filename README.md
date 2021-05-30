@@ -13,7 +13,7 @@
   
 🥰 I am passionate, creative, enthusiastic, dedicated, open minded and I love to work with others.
   
-📬 I am a part of different communities, like- Microsoft Learn Students Ambassadors, Google Crowdsource, Google developers group.
+📬 I am a part of different communities, like- Microsoft Learn Student Ambassadors, Google Crowdsource, Google developers group.
   
 ✨ I have started technical blogging recently, read my first blog here: https://bit.ly/3uveom1
   
