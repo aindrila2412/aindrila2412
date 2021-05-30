@@ -15,4 +15,4 @@
   ### Connect with me
   
   <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/AindrilaDas11?style=social">
-  <img alt="LinkedIn" src="https://img.shields.io/https://www.linkedin.com/in/aindrila-das24/?style=social">
+  
