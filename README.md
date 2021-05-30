@@ -14,6 +14,5 @@
   
   ### Connect with me
   
-  <img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Twitter&logo=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FAindrilaDas11">
-  <img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=LinkedIn&logo=LinkedIn&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Faindrila-das24%2F">
-
+  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/AindrilaDas11?style=social">
+  <img alt="LinkedIn" src="https://img.shields.io/https://www.linkedin.com/in/aindrila-das24/?style=social">
