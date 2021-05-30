@@ -1,7 +1,7 @@
 
-### Hey there!      
-  
+<div align = "center"> 
 
+  ### Hey there! :wave:    
 ![](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
 ### About Me:
