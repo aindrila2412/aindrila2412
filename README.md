@@ -9,7 +9,11 @@
 
 🎓 I'm pursuing my Bachelors in Computer Science & Engineering.
 
-👩🏻‍💻 I'm interested in Web dev, ML, Open Source & learning new things daily.
+👩🏻‍💻 I am passionate about technology and I love building community and helping people learn new technical skills.
+  
+🥰 I am passionate, creative, enthusiastic, dedicated, open minded and I love to work with others.
+  
+📬 I am a part of different communities, like- Microsoft Learn Students Ambassador, Google Crowdsource, Google developers group.
   
   
   ### My skills:
