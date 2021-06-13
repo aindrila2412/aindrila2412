@@ -4,7 +4,9 @@
   ### Hey there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">   
 ![](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif) </div>
 
-### About Me:
+<div align = "center"> 
+  
+  ### About Me: </div>
 
 
 - 🎓 I'm pursuing my Bachelors in Computer Science & Engineering.
@@ -17,6 +19,7 @@
   
 - ✨ I have started technical blogging recently, read my first blog here: https://bit.ly/3uveom1
   
+<div align = "center"> 
   
   ### My skills:
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -52,9 +55,9 @@
   <img alt="" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
   
   
-  <div align = "center">
   
-    ### Statistics and Languages:
+  
+ ### Statistics and Languages:
   
   ![Aindrila's GitHub stats](https://github-readme-stats.vercel.app/api?username=aindrila2412&show_icons=true&theme=radical)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aindrila2412&layout=compact&&theme=radical)](https://github.com/aindrila2412/github-readme-stats)
