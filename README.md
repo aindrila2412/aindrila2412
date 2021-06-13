@@ -1,21 +1,21 @@
 
 <div align = "center"> 
 
-  ### Hey there! :wave:    
-![](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
+  ### Hey there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">   
+![](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif) </div>
 
 ### About Me:
 
 
-🎓 I'm pursuing my Bachelors in Computer Science & Engineering.
+- 🎓 I'm pursuing my Bachelors in Computer Science & Engineering.
 
-👩🏻‍💻 I am passionate about technology and I love building community and helping people learn new technical skills.
+- 👩🏻‍💻 I am passionate about technology and I love building community and helping people learn new technical skills.
   
-🥰 I am passionate, creative, enthusiastic, dedicated, open minded and I love to work with others.
+- 🥰 I am passionate, creative, enthusiastic, dedicated, open minded and I love to work with others.
   
-📬 I am a part of different communities, like- Microsoft Learn Student Ambassadors, Google Crowdsource, Google developers group.
+- 📬 I am a part of different communities, like- Microsoft Learn Student Ambassadors, Google Crowdsource, Google developers group.
   
-✨ I have started technical blogging recently, read my first blog here: https://bit.ly/3uveom1
+- ✨ I have started technical blogging recently, read my first blog here: https://bit.ly/3uveom1
   
   
   ### My skills:
@@ -51,7 +51,10 @@
   <img alt="" src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white">
   <img alt="" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
   
-  ### Statistics and Languages:
+  
+  <div align = "center">
+  
+    ### Statistics and Languages:
   
   ![Aindrila's GitHub stats](https://github-readme-stats.vercel.app/api?username=aindrila2412&show_icons=true&theme=radical)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aindrila2412&layout=compact&&theme=radical)](https://github.com/aindrila2412/github-readme-stats)
@@ -60,7 +63,16 @@
   
   ### Connect with me:
   
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/AindrilaDas11?style=social"> <br>
-  <img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=LinkedIn&logo=LinkedIn&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Faindrila-das24%2F">
- 
+  <p align="center">
+  <a href="https://www.linkedin.com/in/aindrila-das24/">
+    <img align="center" width="26px" img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt=“Aindrila linkdin profile" height="30" width="30">
+  </a>
+   <a href="https://twitter.com/AindrilaDas11">
+    <img align="center" width="26px" img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" 
+    alt=“Aindrila twitter profile" height="30" width="30" hspace="20">
+  </a>     
+    <a href="https://www.instagram.com/__aindrila">
+    <img align="center" width="28px" img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt=“Aindrila Instagram Profile" height="30" width="30" >
+  </a>
+</p>
   
