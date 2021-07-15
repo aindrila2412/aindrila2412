@@ -15,7 +15,7 @@
   
 - 🥰 I am passionate, creative, enthusiastic, dedicated, open minded and I love to work with others.
   
-- 📬 I am a part of different communities, like- [Google Developer Student Clubs](https://developers.google.com/community/dsc), [Microsoft Learn Student Ambassadors](https://studentambassadors.microsoft.com/), [Google Crowdsource](https://crowdsource.google.com/), [Google developers group](https://developers.google.com/community/gdg).
+- 📬 I am a part of different communities, like- [Google Developer Student Clubs](https://developers.google.com/community/dsc), [Microsoft Learn Student Ambassadors](https://studentambassadors.microsoft.com/), [Google Crowdsource](https://crowdsource.google.com/), [Google Developers Group](https://developers.google.com/community/gdg).
   
 - ✨ I have started technical blogging recently, read my first blog on <a href="https://aindriladas20002000.medium.com/becoming-a-microsoft-learn-student-ambassador-all-you-need-to-know-99a6d36e3e6"> <img align="" width="80px" img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
 </a>  
