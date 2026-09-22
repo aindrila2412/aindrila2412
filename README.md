@@ -54,6 +54,6 @@ I've worked across **training at Accenture**, **project consulting at Cvent**, a
 <p align="center">
   <a href="https://www.linkedin.com/in/aindrila-das24/">LinkedIn</a> ·
   <a href="https://aindrila2412.github.io/portfolio/">Portfolio</a> ·
-  <a href="https://twitter.com/AindrilaDas11">Twitter/X</a> ·
+  <a href="https://x.com/heyyandy">Twitter/X</a> ·
   <a href="mailto:aindriladas24@gmail.com">Email</a>
 </p>
