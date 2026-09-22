@@ -42,12 +42,6 @@ I've worked across **training at Accenture**, **project consulting at Cvent**, a
 | **[DevFest India 2022](https://github.com/aindrila2412/devfest-india-2022)** | Community event website contribution |
 | **[Cyclone detection (DL)](https://github.com/aindrila2412/Cyclone-Detection-using-Deep-Learning)** | Final-year major project |
 
-### GitHub snapshot
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aindrila2412&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aindrila2412&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
 
 ### Connect
 
