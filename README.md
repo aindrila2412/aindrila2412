@@ -54,6 +54,8 @@ Personal and template projects use **fictional sample data**. They are not clien
 | **[AI Feature PRD Example](https://github.com/aindrila2412/ai-feature-prd-example)** | PRD, roadmap, RICE prioritization, user stories and metrics for a fictional AI feature |
 | **[Community Playbook](https://github.com/aindrila2412/community-playbook)** | Onboarding, moderation, content calendar, engagement metrics and an event playbook |
 | **[Training Enablement Kit](https://github.com/aindrila2412/training-enablement-kit)** | Needs analysis, facilitator guide, feedback survey and a survey analysis script |
+| **[Women's Safety Insights (live app)](https://aindrila2412.github.io/womens-safety-insights/)** | Offline dashboard of India's crimes-against-women statistics (NCRB 2015-2024) with NFHS-6 survey context, a UN world comparison and a helpline directory. Real public data, SDG 5 and 11 |
+| **[Digital Skills Learning Path (live app)](https://aindrila2412.github.io/digital-skills-learning-path/)** | Companion app for an 8-week beginner digital, cloud and AI skills course: weekly path, quizzes, progress check-ins and a reading list. Sample data is fictional, SDG 4 |
 | **[SheHeroes](https://github.com/aindrila2412/SheHeroes)** | Women and child safety app |
 | **[DevFest India 2022](https://github.com/aindrila2412/devfest-india-2022)** | Community event website contribution |
 | **[Cyclone detection (DL)](https://github.com/aindrila2412/Cyclone-Detection-using-Deep-Learning)** | Final-year major project |
