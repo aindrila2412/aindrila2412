@@ -44,31 +44,21 @@ Welcome to my corner of GitHub. I work in technology consulting, program deliver
 - GitLab Certified CI/CD Associate: **in progress**
 - HubSpot Social Media Marketing · Amazon Seller University · Qualtrics XM Fundamentals
 
-## Featured projects
+## Projects
 
 Personal and template projects use **fictional sample data**. They are not client or employer work.
 
 | Project | What it is |
 | --- | --- |
 | **[Program Tracker Template](https://github.com/aindrila2412/program-tracker-template)** | Issue templates, RAID log, dependency register, status and charter templates, with a Markdown lint check |
-| **[AI Feature PRD Example](https://github.com/aindrila2412/ai-feature-prd-example)** | PRD, roadmap, RICE prioritization, user stories and metrics for a fictional AI feature |
-| **[Community Playbook](https://github.com/aindrila2412/community-playbook)** | Onboarding, moderation, content calendar, engagement metrics and an event playbook |
 | **[Training Enablement Kit](https://github.com/aindrila2412/training-enablement-kit)** | Needs analysis, facilitator guide, feedback survey and a survey analysis script |
-| **[Women's Safety Insights (live app)](https://aindrila2412.github.io/womens-safety-insights/)** | Offline dashboard of India's crimes-against-women statistics (NCRB 2015-2024) with NFHS-6 survey context, a UN world comparison and a helpline directory. Real public data, SDG 5 and 11 |
-| **[Digital Skills Learning Path (live app)](https://aindrila2412.github.io/digital-skills-learning-path/)** | Companion app for an 8-week beginner digital, cloud and AI skills course: weekly path, quizzes, progress check-ins and a reading list. Sample data is fictional, SDG 4 |
-| **[SheHeroes](https://github.com/aindrila2412/SheHeroes)** | Women and child safety app |
-| **[DevFest India 2022](https://github.com/aindrila2412/devfest-india-2022)** | Community event website contribution |
-| **[Cyclone detection (DL)](https://github.com/aindrila2412/Cyclone-Detection-using-Deep-Learning)** | Final-year major project |
+| **[Community Playbook](https://github.com/aindrila2412/community-playbook)** | Onboarding, moderation, content calendar, engagement metrics and an event playbook |
 
 ## Selected achievements
 
 - **EY** (Senior Analyst, Technology Consulting): led a cross-functional team of 8+; delivered 10+ technology projects, improving delivery efficiency by ~20% and client satisfaction by ~15%.
 - **Cvent** (Associate Project Consultant): guided enterprise clients on platform best practices, contributing to a 30% increase in user adoption.
 - **GDSC**: founded the first chapter on campus and taught 1,000+ students via free workshops.
-
-## Currently learning
-
-🌱 Preparing for the **GitLab Certified CI/CD Associate** certification and the PMI **CAPM**.
 
 ## Connect
 
