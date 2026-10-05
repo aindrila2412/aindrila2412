@@ -36,14 +36,6 @@ Welcome to my corner of GitHub. I work in technology consulting, program deliver
 | AI | Working knowledge of LLMs and agentic AI |
 | Communication | Written status updates and documentation, training, knowledge sharing |
 
-## Certifications
-
-- Google Project Management Certificate
-- Microsoft Azure Fundamentals (AZ-900)
-- Certified Associate in Project Management (CAPM), PMI: **in progress**
-- GitLab Certified CI/CD Associate: **in progress**
-- HubSpot Social Media Marketing · Amazon Seller University · Qualtrics XM Fundamentals
-
 ## Projects
 
 Personal and template projects use **fictional sample data**. They are not client or employer work.
@@ -53,12 +45,6 @@ Personal and template projects use **fictional sample data**. They are not clien
 | **[Program Tracker Template](https://github.com/aindrila2412/program-tracker-template)** | Issue templates, RAID log, dependency register, status and charter templates, with a Markdown lint check |
 | **[Training Enablement Kit](https://github.com/aindrila2412/training-enablement-kit)** | Needs analysis, facilitator guide, feedback survey and a survey analysis script |
 | **[Community Playbook](https://github.com/aindrila2412/community-playbook)** | Onboarding, moderation, content calendar, engagement metrics and an event playbook |
-
-## Selected achievements
-
-- **EY** (Senior Analyst, Technology Consulting): led a cross-functional team of 8+; delivered 10+ technology projects, improving delivery efficiency by ~20% and client satisfaction by ~15%.
-- **Cvent** (Associate Project Consultant): guided enterprise clients on platform best practices, contributing to a 30% increase in user adoption.
-- **GDSC**: founded the first chapter on campus and taught 1,000+ students via free workshops.
 
 ## Connect
 
